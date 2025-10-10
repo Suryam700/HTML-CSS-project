@@ -1,2 +1,4 @@
 # HTML-CSS-project
-Here is my all project
+My all project related to HTML & CSS
+<br>
+BY- <i><b> Suryam Gahoi </b></i>
